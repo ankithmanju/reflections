@@ -22,3 +22,4 @@ use the git log to check the comment of what was done in that commit and use git
 How might using version control make you more confident to make changes that could break something?
 
 I dont need to think of break a working version as i can revert back to it anytime :)
+hahaha
