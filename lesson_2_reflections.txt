@@ -4,4 +4,9 @@ It will have temporary copies of the original files!
 
 
 How can you use the staging area to make sure you have one commit per logical change?
+
 use git diff to find the difference between staging area and the original copy
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when one branch needs a total change , or one branch implements a new functionality in one way and second implements it in another way!
