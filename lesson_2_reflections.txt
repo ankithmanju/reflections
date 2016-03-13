@@ -10,3 +10,11 @@ use git diff to find the difference between staging area and the original copy
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when one branch needs a total change , or one branch implements a new functionality in one way and second implements it in another way!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+easy to get an intuition ! of what was done in the branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+it sees if there is a conflict and tells about the conflict so that we can investigate it ! 
